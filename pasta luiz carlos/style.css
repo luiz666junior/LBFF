@@ -31,3 +31,33 @@
 .escola-titulo{
     padding: 25px 0;
 }
+.perfil{
+    background-color: #284e51
+}
+.estudante-imagem{
+    padding 20px 0;..
+    padding20px0;
+    width: 200px;
+}
+.estudante-icone{
+    width 24px;
+    padding 20px0;
+}
+.escola-div{
+    text-again: center;
+}
+.estudante-titulo{
+    text-again:center;
+    padding30px0;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%
+    padding: 30px0;
+}
+.rodape{
+    background-color: black;
+    color: white;
+    padding: 12px0;
+    text-again: center;
+}
